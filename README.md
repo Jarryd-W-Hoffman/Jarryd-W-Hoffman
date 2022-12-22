@@ -93,7 +93,7 @@ An enthusiastic Australian full-stack software engineer. Currently developing nu
 	<p align="center">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jarryd-w-hoffman&show_icons=true&locale=en&layout=compact" alt="jarryd-w-hoffman" />
 	</p>
-  <div>
+  <div align="center">
 	<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jarryd-w-hoffman&show_icons=true&locale=en" alt="jarryd-w-hoffman" />
 		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarryd-w-hoffman&" alt="jarryd-w-hoffman" />
