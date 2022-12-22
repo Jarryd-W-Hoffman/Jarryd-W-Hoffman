@@ -11,9 +11,9 @@ An enthusiastic Australian full-stack software engineer. Currently developing nu
 		<b>Connect with me</b>
 	</summary>
 	<p align="center">
-		<a href="https://codepen.io/jayaitch" target="blank">
-			<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jayaitch" height="80" width="80" />
-		</a>
+<a href="https://codepen.io/jayaitch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jayaitch" height="80" width="80" /></a>
+<a href="https://linkedin.com/in/jarryd-hoffman-a85b94155" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jarryd-hoffman-a85b94155" height="80" width="80" /></a>
+<a href="https://discord.gg/pbT7cQymdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pbT7cQymdj" height="80" width="80" /></a>
 	</p>
 </details>
 <details open>
