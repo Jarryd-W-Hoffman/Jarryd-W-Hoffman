@@ -1,4 +1,6 @@
-<h3 align="left">Hello there <𝚍𝚎𝚟eloper𝚜 /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Jarryd Hoffman.</h3>
+<h3 align="center">Hello there <𝚍𝚎𝚟eloper𝚜 />
+<br />
+I'm Jarryd Hoffman.</h3>
 <h4 align="left">An enthusiastic Australian full-stack software engineer. Currently developing numerous SaaS enterprise applications. I enjoy learning about new technology and working to find practical solutions to important challenges.</h4>
 <br />
 <details>
