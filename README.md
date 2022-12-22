@@ -1,6 +1,22 @@
-<h1 align="center">Hi 👋, I'm Jarryd Hoffman</h1>
-<h3 align="center">A passionate full-stack developer from Australia</h3>
-
+<h3 align="left">Hello there <𝚍𝚎𝚟eloper𝚜 /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></h3>
+<h3 align="left">I'm Jarryd Hoffman.</h3>
+<br />
+<h3 align="left">A passionate full-stack Software Engineer from Australia <img src="https://icons.iconarchive.com/icons/hopstarter/flag-borderless/128/Australia-icon.png" width="30 style="vertical-align: bottom"/></h3>
+  
+  
+  
+  
+  
+  
+  
+<div>
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+  
+  
+  
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarryd-w-hoffman&label=Profile%20views&color=0e75b6&style=flat" alt="jarryd-w-hoffman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarryd-w-hoffman" alt="jarryd-w-hoffman" /></a> </p>
