@@ -1,7 +1,7 @@
-<h3 align="center">Hey there, fellow <𝚍𝚎𝚟eloper𝚜 />! 👋</h3>
+<h3 align="center">Hey there, fellow <𝚍𝚎𝚟elopers />! 👋</h3>
 
 <p align="center">
-  I'm **Jarryd Hoffman**, an enthusiastic Australian full-stack software engineer with a passion for building robust solutions.
+  I'm Jarryd Hoffman, an enthusiastic Australian full-stack software engineer with a passion for building robust solutions.
   Currently, I'm immersed in developing impactful SaaS enterprise applications, always eager to explore new technologies and craft practical solutions to real-world challenges.
 </p>
 
@@ -114,7 +114,7 @@
 ---
 
 <p align="center">
-  <sub>Coded with ❤️ by <a href="https://github.com/Jarryd-W-Hoffman">Jarryd W. Hoffman</a></sub>
+  <sub>Made with ❤️ by <a href="https://github.com/Jarryd-W-Hoffman">Jarryd W. Hoffman</a></sub>
   <br />
-  <sub>Last Modified: 22/12/2022</sub>
+  <sub>Last Modified: 20/06/2025</sub>
 </p>
