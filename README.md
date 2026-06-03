@@ -1,4 +1,4 @@
-<h3 align="center">Hey there, fellow <𝚍𝚎𝚟elopers />! 👋</h3>
+<h3 align="center">Hey there 👋</h3>
 
 <p align="center">
   I'm Jarryd Hoffman, an enthusiastic Australian full-stack software engineer with a passion for building robust solutions.
