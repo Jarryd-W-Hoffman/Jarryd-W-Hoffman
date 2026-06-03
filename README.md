@@ -1,9 +1,6 @@
 <h3 align="center">Hey there 👋</h3>
 
-<p align="center">
-  I'm Jarryd Hoffman, an enthusiastic Australian full-stack software engineer with a passion for building robust solutions.
-  Currently, I'm immersed in developing impactful SaaS enterprise applications, always eager to explore new technologies and craft practical solutions to real-world challenges.
-</p>
+I'm Jarryd Hoffman, an enthusiastic Australian full-stack software engineer with a passion for building robust solutions. Currently, I'm immersed in developing impactful SaaS enterprise applications, always eager to explore new technologies and craft practical solutions to real-world challenges.
 
 <details>
   <summary>
