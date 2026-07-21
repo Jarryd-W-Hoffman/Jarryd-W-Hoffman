@@ -44,9 +44,9 @@ I specialise in modular system design, maintainability, and developer experience
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://hffmn.dev" target="_blank">
+  <!-- <a href="https://hffmn.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-hffmn.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
+  </a> -->
   <a href="https://linkedin.com/in/jarryd-hoffman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
