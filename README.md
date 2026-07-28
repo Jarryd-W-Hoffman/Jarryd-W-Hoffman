@@ -59,7 +59,7 @@ I specialise in modular system design, maintainability, and developer experience
   <div align="center">
     <p>
       <img align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=jarryd-w-hoffman&theme=transparent&hide_border=true" alt="jarryd-w-hoffman" />
-      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jarryd-w-hoffman&theme=transparent&hide_title=true&layout=compact&langs_count=8&hide_border=true" alt="jarryd-w-hoffman" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jarryd-w-hoffman&theme=transparent&hide_title=true&layout=compact&langs_count=8&card_width=320&hide_border=true" alt="jarryd-w-hoffman" />
     </p>
   </div>
 
