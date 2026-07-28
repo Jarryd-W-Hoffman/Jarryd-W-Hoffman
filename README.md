@@ -58,7 +58,7 @@ I specialise in modular system design, maintainability, and developer experience
 ## 📊 GitHub Stats
   <div align="center">
     <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jarryd-W-Hoffman&" alt="jarryd-w-hoffman" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jarryd-w-hoffman&" alt="jarryd-w-hoffman" />
     </p>
   </div>
 
