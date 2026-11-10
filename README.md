@@ -24,6 +24,8 @@ I specialise in modular system design, maintainability, and developer experience
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 <p align="center">
@@ -66,5 +68,5 @@ I specialise in modular system design, maintainability, and developer experience
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/Jarryd-W-Hoffman">Jarryd Hoffman</a></sub>
   <br />
-  <sub>Last Modified: 21/07/2026</sub>
+  <sub>Last Modified: 10/11/2026</sub>
 </p>
